@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
-<h3 align="center">A chilean engineer working for safe infraestructure👷🏼‍♂️</h3> 
+<h3 align="center">A chilean engineer working for safe infrastructure👷🏼‍♂️</h3> 
 
  
 <h2 align="left">Current topics of research
