@@ -20,6 +20,6 @@
 
 <h2 align="left">Contact me
   <h5 align="left">
-If you want to talk about infrastructure with humanitarian focus and develop research about that, we should connect! 😊   
+If you want to talk about infrastructure with a humanitarian focus and develop research about that, we should connect! 😊   
     
 You can write me to nfuentes@nfa.cl
