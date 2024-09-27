@@ -5,7 +5,7 @@
 <h2 align="left">Current topics of research
 <h5 align="left">
     
-- Risk and resilience in critical infrastructure
+- Risk and resilience related with critical infrastructure
 - Structure diagnostics through IA
 - Computational mechanics of solids and structures 
 
