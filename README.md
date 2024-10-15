@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A chilean engineer working for safe infrastructure👷🏼‍♂️</h3> 
 
+I am a civil engineer (BSc) and researcher with a master's degree in structural engineering (MSc) and currently based in Santiago, Chile where I lead a civil engineers team from the general management of NFA INGENIERIA Ltda. which is a structural and pavements engineering firm with a strong focus on research and disaster risk reduction related to each of its projects mainly in the industrial and mining sector.     
  
 <h2 align="left">Current topics of research
 <h5 align="left">
