@@ -6,8 +6,8 @@ I am a civil engineer (BSc) and researcher with a master's degree in structural 
 <h2 align="left">Current topics of research
 <h5 align="left">
     
-- Risk and resilience related to critical infrastructure
-- Structure diagnostics through IA
+- Structural risk and resilience related to critical infrastructure
+- Structural diagnostics
 - Computational mechanics of solids and structures 
 
 <h2 align="left">Softwares and programming environments
